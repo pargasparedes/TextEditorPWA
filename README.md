@@ -22,3 +22,6 @@ Information will be synced to the database when closing the app.
 
 ## Questions?
 Here is my GitHub Profile: [pargasparedes](https://github.com/pargasparedes)
+
+### Screenshot of the application
+![screenshot](./assets/screenshot.png)
